@@ -25,7 +25,8 @@ Demonstrates usage of:
 - String  
 
  
-![Output](screenshots/output1)
+![Output](https://drive.google.com/uc?export=view&id=1uQTQGBQbsjOcgtAzRS9DmDtlDadXh6ZK)
+
 
 
 ---
@@ -37,7 +38,8 @@ Type Conversion:
 - String → Integer  
 - String → Double  
 
-![Output](screenshots/output2)
+![Output](https://drive.google.com/uc?export=view&id=1d-oUCN-Gdo4HP4APRJzNvr3mYDjIbjOc)
+
 
 ---
 
@@ -49,14 +51,16 @@ Scan student information and display the entered data such as:
 - Branch  
 - Other details  
 
-![Output](screenshots/output3)
+![Output](https://drive.google.com/uc?export=view&id=135UQnBnBIBNF95XGIio6nHOD7nVj7_kT)
+
 ---
 
 ###  **p1.4.kt**
 **Description:**  
 Check whether a number is **Odd or Even** using conditional logic inside `println()`.
 
-![Output](screenshots/output4)
+![Output](https://drive.google.com/uc?export=view&id=1NDlXQ9btZG5NuwXZbOVTj4zL4liN4Vm2)
+
 
 ---
 
@@ -64,7 +68,8 @@ Check whether a number is **Odd or Even** using conditional logic inside `printl
 **Description:**  
 Display the **Month Name** using a `when` expression based on user input.
 
-![Output](screenshots/output5)
+![Output](https://drive.google.com/uc?export=view&id=1rh5gS3kSj_ZYt8lkEYWOt2ug5vvzwhzD)
+
 
 ---
 
@@ -73,7 +78,8 @@ Display the **Month Name** using a `when` expression based on user input.
 User-Defined Function:  
 Perform arithmetic operations (Addition, Subtraction, Multiplication, Division) on two numbers.
 
-![Output](screenshots/output6)
+![Output](https://drive.google.com/uc?export=view&id=1IhlMFFJOza58Z6aPxRyTtQuSaLxzWlnj)
+
 
 ---
 
@@ -81,7 +87,8 @@ Perform arithmetic operations (Addition, Subtraction, Multiplication, Division) 
 **Description:**  
 Calculate the **Factorial** of a number using **recursion**.
 
-![Output](screenshots/output7)
+![Output](https://drive.google.com/uc?export=view&id=1Af-B2-49c1y0GmK1VMugPcMlv7axsVxq)
+
 
 ---
 
@@ -94,7 +101,8 @@ Working with **Arrays**:
 - Use loops like `range`, `downTo`, `until`, etc.  
 - Sort an integer array **with** and **without** built-in functions.
 
-![Output](screenshots/output8)
+![Output](https://drive.google.com/uc?export=view&id=1UUXl94x5t6UiG4RaI4RhhYe_p3wX4Bb4)
+
 
 ---
 
@@ -102,7 +110,8 @@ Working with **Arrays**:
 **Description:**  
 Find the **Maximum Number** from an ArrayList of integers.
 
-![Output](screenshots/output9)
+![Output](https://drive.google.com/uc?export=view&id=1eZnVsO5kJ5K-U3VhVUZbPTuzjNlk-ifW)
+
 
 ---
 
@@ -121,7 +130,8 @@ Includes functions to calculate and display:
 - Current price  
 - Full car information  
 
-![Output](screenshots/output10)
+![Output](https://drive.google.com/uc?export=view&id=1dJNGLrxc_ivtgHqw-UrNdJ1AXe7mf2Ii)
+
 
 ---
 
@@ -135,7 +145,8 @@ Implements a **Matrix** class with overloaded operators for:
 
 Also overloads `toString()` for formatted matrix display.
 
-![Output](screenshots/output11)
+![Output](https://drive.google.com/uc?export=view&id=1tYdWo0Z3kJO3tldCJFEUP6YOwuhHW0Gg)
+
 
 ---
 
@@ -149,7 +160,8 @@ Swapping using a temporary variable
 
 Swapping without a third variable (using arithmetic operations)
 
-![Output](screenshots/outputextra1)
+![Output](https://drive.google.com/uc?export=view&id=1D00m8otSDlul4PngS8UMCGJcvAyAspRI)
+
 ---
 
 ### **extra p1.2.kt**
@@ -175,7 +187,8 @@ A function to display complete laptop information
 
 Creation of an ArrayList<Laptop> and printing details of all laptops
 
-![Output](screenshots/outputextra2)
+![Output](https://drive.google.com/uc?export=view&id=1mN8_ehHOCX8_XcCyRx7c2QVR0WusOxX0)
+
 ---
 
 ### **extra p1.3.kt**
@@ -205,7 +218,7 @@ A showInfo() function to print complete student details
 
 Creation of an ArrayList<Student> and displaying information of all students
 
-![Output](screenshots/outputextra3)
+![Output](https://drive.google.com/uc?export=view&id=1d19lAXrmZgVRzxvCdzy5_5siE4iYM2Ti)
 ---
 
 ##  Summary
